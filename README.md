@@ -1,1 +1,1 @@
-Flappy Bird Game using Unity 
+2D Flappy Bird Game using Unity 
